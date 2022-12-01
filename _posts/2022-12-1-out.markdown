@@ -1,0 +1,162 @@
+
+## Azure Machine Learning
+
+
+### Community Links
+
+- Link to community
+
+### Costs and Licences
+
+- Believe the space is free - payment is for machines that model building is done on
+
+### Example Repositories
+
+- Example repo
+
+### Knowledgeable Worth People
+
+- Henry
+
+### Learning Resources
+
+- <a href="https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day">https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day</a>
+
+### Maturity
+
+- Seems quite mature - Second iteration, replaces machine learning studio (classic)
+
+### Overview
+
+- Pipelines
+- Notebooks
+- Ways to build models
+
+### Project Examples
+
+- ml-insurance-research
+
+### Strengthes
+
+- Quick
+- Appears to be relatively cheap to play around with for a day
+- Scalable clusters
+
+### Weaknesses
+
+- Layout is a little unclear
+- Feels like maybe there are many ways to achieve the same thing
+
+### abc
+
+- Pipelines
+- Notebooks
+- Ways to build models
+- Layout is a little unclear
+- Feels like maybe there are many ways to achieve the same thing
+- Quick
+- Appears to be relatively cheap to play around with for a day
+- Scalable clusters
+- Henry
+- ml-insurance-research
+- Seems quite mature - Second iteration, replaces machine learning studio (classic)
+- Believe the space is free - payment is for machines that model building is done on
+- <a href="https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day">https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day</a>
+- Link to community
+- Example repo
+
+## Some Other Tool
+
+
+### Community Links
+
+- link to community
+
+### Costs and Licences
+
+- believe the space is free - payment is for machines that model building is done on
+
+### Example Repositories
+
+- example repo
+
+### Knowledgeable Worth People
+
+- henry
+
+### Learning Resources
+
+- <a href="https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day">https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day</a>
+
+### Maturity
+
+- seems quite mature - second iteration, replaces machine learning studio (classic)
+
+### Overview
+
+- b
+- c
+- a
+
+### Project Examples
+
+- ml-insurance-research
+
+### Strengthes
+
+- quick
+- appears to be relatively cheap to play around with for a day
+- scalable clusters
+
+### Weaknesses
+
+- layout is a little unclear
+- feels like maybe there are many ways to achieve the same thing
+
+## Some Practice
+
+
+### Community Links
+
+- link to community
+
+### Costs and Licences
+
+- believe the space is free - payment is for machines that model building is done on
+
+### Example Repositories
+
+- example repo
+
+### Knowledgeable Worth People
+
+- henry
+
+### Learning Resources
+
+- <a href="https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day">https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day</a>
+
+### Maturity
+
+- seems quite mature - second iteration, replaces machine learning studio (classic)
+
+### Overview
+
+- f
+- g
+- q
+
+### Project Examples
+
+- ml-insurance-research
+
+### Strengthes
+
+- quick
+- appears to be relatively cheap to play around with for a day
+- scalable clusters
+
+### Weaknesses
+
+- layout is a little unclear
+- feels like maybe there are many ways to achieve the same thing
